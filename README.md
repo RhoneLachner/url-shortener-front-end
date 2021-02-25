@@ -1,5 +1,7 @@
 # url-shortener-front-end
 
+**CODE IN THIS PROJECT CLOSELY MIMICKS ALCHEMY CODE LAB DEC 2020 REPO**
+**PRACTICE ONLY**
 URL Shortener
 back-end
 setup files and stuff (bootstrap)
